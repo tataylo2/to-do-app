@@ -10,7 +10,7 @@ const addToDoForm = document.getElementById('addToDoForm');
    toDos.push({
      title: newToDoText.value,
      complete: false,
-     var id: i++,
+     id: i++,
    });
   }
   function renderTheUI() {
